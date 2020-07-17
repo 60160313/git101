@@ -1,6 +1,6 @@
-#  Hello, Entrepreneur.
+#  Hello How are you ? , Entrepreneur.
 
-## I'm going to show you how I use git
+## I'm going to bkk
 
-### Let's start with git init
+### Let's it go 
 
